@@ -1,0 +1,3 @@
+[submodule "GFRcalc"]
+	path = GFRcalc
+	url = https://github.com/simecek/GFRcalc.git

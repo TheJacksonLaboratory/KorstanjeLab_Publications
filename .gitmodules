@@ -4,3 +4,9 @@
 [submodule "DOQTL"]
 	path = DOQTL
 	url = https://github.com/dmgatti/DOQTL.git
+[submodule "emase"]
+	path = emase
+	url = https://github.com/churchill-lab/emase.git
+[submodule "gbrs"]
+	path = gbrs
+	url = https://github.com/churchill-lab/gbrs.git

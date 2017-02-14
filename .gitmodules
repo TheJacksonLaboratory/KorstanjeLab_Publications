@@ -1,3 +1,6 @@
 [submodule "GFRcalc"]
 	path = GFRcalc
 	url = https://github.com/simecek/GFRcalc.git
+[submodule "DOQTL"]
+	path = DOQTL
+	url = https://github.com/dmgatti/DOQTL.git

@@ -1,5 +1,5 @@
 ---
-title: "The Korstanje Lab Publications Home Page"
+title: "Publications Home Page"
 output: html_document
 ---
 

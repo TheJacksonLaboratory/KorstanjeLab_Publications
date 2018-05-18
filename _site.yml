@@ -5,3 +5,5 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Publications"
+      href: publications.html

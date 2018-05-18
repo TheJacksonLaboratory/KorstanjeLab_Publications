@@ -1,5 +1,6 @@
 ---
 title: "The Korstanje Lab Publications Home Page"
+output: html_document
 ---
 
 Hello!

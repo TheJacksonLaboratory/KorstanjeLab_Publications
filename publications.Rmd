@@ -1,6 +1,6 @@
 ---
-title: "Korstanje Lab Publications"
+title: "List of Publications"
 output: html_document
 ---
 
-*[Testing](Bear_Rmd/Template4Ron.html)
+*[Best Nature paper of all time](Bear_Rmd/Template4Ron.html)

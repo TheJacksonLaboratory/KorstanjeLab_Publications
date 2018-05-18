@@ -20,4 +20,4 @@ knitr::include_graphics("../Bear_data/Supplemental Figure S1.png")
 Figure S1 caption and legends
 
 #Downlod original files and figures:
-[Click here](https://github.com/TheJacksonLaboratory/KorstanjeLab_Publications/blob/master/Bear_data/SupplementalFigureS1.pdf)
+[Click here](https://github.com/TheJacksonLaboratory/KorstanjeLab_Publications/blob/master/Bear_data/)

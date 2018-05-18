@@ -1,0 +1,7 @@
+output_dir: "docs"
+name: "KorstanjeLab_Publication"
+navbar:
+  title: "The Korstanje Lab Publications"
+  left:
+    - text: "Home"
+      href: index.html

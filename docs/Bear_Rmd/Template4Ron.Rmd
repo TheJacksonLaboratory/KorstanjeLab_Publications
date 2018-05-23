@@ -11,6 +11,9 @@ This is a template to be shared with Ron as a demo for creating GitHub derived h
 ## Header 2
 ### Header 3
 #### Header 4
+```{r}
+plot(1:10,1:10)
+```
 
 ## Adding figure
 ```{r Supp figure 1, echo=FALSE, fig.align="center"}

@@ -1,6 +1,6 @@
 ---
-title: "List of Publications"
+title: "Supplemental Data from our Publications"
 output: html_document
 ---
 
-*[Best Nature paper of all time](Bear_Rmd/Template4Ron.html)
+*[Black Bear Data](Bear_Rmd/Template4Ron.html)

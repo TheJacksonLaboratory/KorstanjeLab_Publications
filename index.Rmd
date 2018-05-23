@@ -1,9 +1,7 @@
 ---
-title: "Publications Home Page"
+title: "Korstanje Lab Publications Home Page"
 output: html_document
 ---
-
-Hello World!
 
 
 Contents will be filled soon.

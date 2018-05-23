@@ -15,7 +15,7 @@ This is a template to be shared with Ron as a demo for creating GitHub derived h
 ## Adding figure
 ```{r Supp figure 1, echo=FALSE, fig.align="center"}
 # http output does not like pdf images, so convert to png to conserve space
-knitr::include_graphics("../Bear_data/Supplemental Figure S1.png")
+knitr::include_graphics("../Bear_data/Site_version/Supplemental Figure S1.png")
 ```
 Figure S1 caption and legends
 

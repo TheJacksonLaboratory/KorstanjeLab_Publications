@@ -3,6 +3,5 @@ title: "Publications Home Page"
 output: html_document
 ---
 
-Hello!  
-\  
+Hello World!   
 Contents will be filled soon.

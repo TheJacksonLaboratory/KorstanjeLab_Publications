@@ -3,4 +3,4 @@ title: "Supplemental Data from our Publications"
 output: html_document
 ---
 
-*[Black Bear Data](Bear_Rmd/Template4Ron.html)
+*[Black Bear Data](Bear_Rmd/BlackBear.html)
